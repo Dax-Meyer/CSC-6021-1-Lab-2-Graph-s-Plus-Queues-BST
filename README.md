@@ -95,28 +95,6 @@ Graph traversal concepts are useful in many areas:
 
 The common idea is that a graph stores relationships and a traversal algorithm systematically explores them.
 
-## Building and Running
-
-If the source file is named `main.cpp` and a C++ compiler is installed, compile it with:
-
-```bash
-g++ -std=c++17 main.cpp -o graph_navigation
-```
-
-Run on macOS or Linux:
-
-```bash
-./graph_navigation
-```
-
-On Windows:
-
-```powershell
-.\graph_navigation.exe
-```
-
-If the project contains multiple source files, include the required `.cpp` files in the compile command. Adjust the command to match your project's actual file names and build setup.
-
 ## Learning Objectives
 
 By exploring this project, you can practice:
@@ -132,7 +110,10 @@ By exploring this project, you can practice:
 
 The accompanying video walks through the program menu and demonstrates adding edges, displaying the adjacency matrix, and finding a shortest path with BFS.
 
-**YouTube video:** Add your video link here.
+**YouTube video:** https://youtu.be/ECBQ8dTK-So?si=OPB2oaMwEN0gFiqy
+
+## LinkedIn
+
 
 ## References
 
