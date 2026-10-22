@@ -113,7 +113,7 @@ The accompanying video walks through the program menu and demonstrates adding ed
 **YouTube video:** https://youtu.be/ECBQ8dTK-So?si=OPB2oaMwEN0gFiqy
 
 ## LinkedIn
-
+https://lnkd.in/p/g-D2sAf6
 
 ## References
 
